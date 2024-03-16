@@ -8,5 +8,5 @@ alert (`hello ${personname} would you like to learn same pithan today `)
 }
 
 else {
-    alert('you have to fill this?')
+    alert('you have to fill this??')
 }
